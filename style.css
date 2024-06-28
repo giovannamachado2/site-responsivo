@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    font-family: "Baloo 2", sans-serif;
+    padding: 20px;
+
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #C47F17;
+    font-size: 24px;
+
+}
+
+p {
+    color: #403937;
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+button {
+    width: 390px;
+    height: 54px;
+    border-radius: 100px;
+    padding: 16px, 0px, 16px, 0px;
+    gap: 4px;
+    background-color: #54857b;
+
+    color:#FFFFFF;
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+
+}
